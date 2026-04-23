@@ -1,9 +1,9 @@
-# 🚀 Personal Portfolio & Digital Assets
+# 🚀 Personal Portfolio
 
 An interactive, AI-optimized portfolio showcasing my frontend skills and digital widgets.
 
 ### 🛠 Tech Stack
-* **Frontend:** HTML5, CSS3, JavaScript (ES6+)
+* **Frontend:** HTML5, CSS3
 * **Framework:** Bootstrap (for responsiveness)
 * **AI Tools:** Optimized using **DeepSeek** and **Blackbox AI** for clean code architecture.
 
